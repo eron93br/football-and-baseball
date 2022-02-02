@@ -1,6 +1,6 @@
 # football-and-baseball
 
-[CESAR School](https://www.cesar.school/especializacao-em-analise-e-engenharia-de-dados/) Data Analysis and Engineer Specialization - Final project of Neural Networks course 
+[CESAR School](https://www.cesar.school/especializacao-em-analise-e-engenharia-de-dados/) Data Analysis and Engineering Specialization - Final project of Neural Networks course 
 
 To run the code here, please download the ```Football and Baseball NN.ipynb``` on Google Colab, download the folders from git (train/val) and you can train models based on the image dataset. 
 
